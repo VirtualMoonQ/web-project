@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Shiba Inu",
+        "info": "The Shiba Inu is a breed of hunting dog from Japan. A small-to-medium breed, it is the smallest of the six original breed of dogs native to Japan. Its name literally translates to 'brushwood dog', as it is used to flush game. A small, alert, and agile dog that copes very well with mountainous terrain and hiking trails, the Shiba Inu was originally bred for hunting. It looks similar to other Japanese dog breeds such as the Akita Inu or Hokkaido, but the Shiba Inu is a different breed with a distinct bloodline, temperament, and smaller size than other Japanese dog breeds.",
+        "img": "https://cdn.tgdd.vn/Files/2021/04/16/1343844/tim-hieu-ve-giong-cho-shiba-nguon-goc-dac-diem-cach-nuoi-bang-gia-202203281530392436.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Akita Inu",
+        "info": "The Akita is a Japanese dog breed of large size. Originating from the mountains of northern Japan, the Akita has a short double coat similar to that of many other northern spitz breeds. Historically, they were used by matagi for guarding and the hunting of bears. The Akita is a powerful, dominant and loyal breed, commonly aloof with strangers, but affectionate and deeply loyal with its family. As a breed, Akitas are generally hardy. The two separate varieties of Akita are a pure Japanese strain, called Akita Inu or Akita-ken, and a larger mixed strain, commonly referred to as the 'American Akita'. However, it is subject to debate as to whether the Akita strains are distinct, or if they constitute one, single breed.",
+        "img": "https://i.pinimg.com/474x/38/4b/21/384b21894c2453a6b598d23e62ff551c.jpg"
+    },
+    {
+        "id": 3 ,
+        "name":"Alaska",
+        "info":"The Alaskan Malamute is a large breed of dog that was originally bred for its strength and endurance, to haul heavy freight as a sled dog, and as a hound. It is similar to other arctic breeds such as the husky, the spitz, the Greenland Dog, Canadian Eskimo Dog, the Siberian Husky, and the Samoyed.",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/9/9f/Alaskan_Malamute.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Husky",
+        "info": "Husky is a general term for a dog used in the polar regions, primarily and specifically for work as sled dogs. It refers to a traditional northern type, notable for its cold-weather tolerance and overall hardiness. Modern racing huskies that maintain arctic breed traits (also known as Alaskan huskies) represent an ever-changing crossbreed of the fastest dogs. Huskies have continued to be used in sled-dog racing, as well as expedition and trek style tour businesses, and as a means of essential transportation in rural communities. Huskies are also kept as pets, and groups work to find new pet homes for retired racing and adventure-trekking dogs.",
+        "img": "https://media.os.fressnapf.com/cms/2020/08/ratgeber_hund_rasse_portraits_siberian-husky_1_1200x527..jpg?t=seoimg_703"   
+    },
+    {
+        "id": 5,
+        "name": "German Shepherd",
+        "info": "The German Shepherd, also known in Britain as an Alsatian, is a German breed of working dog of medium to large size. The breed was developed by Max von Stephanitz using various traditional German herding dogs from 1899. It was originally bred as a herding dog, for herding sheep. It has since been used in many other types of work, including disability assistance, search-and-rescue, police work, and warfare. It is commonly kept as a companion dog, and according to the Fédération Cynologique Internationale had the second-highest number of annual registrations in 2013.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Berger_allemand_en_montagne_2.jpg/733px-Berger_allemand_en_montagne_2.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Welsh Corgi",
+        "info": "The Welsh Corgi is a small type of herding dog that originated in Wales. The name corgi is derived from the Welsh words cor and ci (which is mutated to gi), meaning 'dwarf'' and 'dog', respectively.",
+        "img": "https://www.forbes.com/advisor/wp-content/uploads/2023/05/corgi-common-health-issues.jpeg.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Samoyed",
+        "info": "The Samoyed is a breed of medium-sized herding dogs with thick, white, double-layer coats. They are spitz-type dogs which take their name from the Samoyedic peoples of Siberia. Descending from the Nenets Herding Laika, they are domesticated animals that assist in herding, hunting, protection and sled-pulling. Samoyed dogs are most often white, and can have a brown tint to their double-layer coat which is naturally dirt-repellent. They are known to be used in expeditions in both Arctic and Antarctic regions and have a friendly and agreeable disposition.",
+        "img": "https://media.istockphoto.com/id/942498970/photo/young-happy-smiling-white-samoyed-dog-or-bjelkier-sammy-sit-outdoor-in-green-spring-meadow.jpg?s=612x612&w=0&k=20&c=11OGTg7VZeq-Vk9EPwZgiFM8ymPNC5OoEwAN3P7eWLo="
+    },
+    {
+        "id": 8,
+        "name": "Golden Retriever",
+        "info": "The Golden Retriever is a Scottish breed of retriever dog of medium size. It is characterised by a gentle and affectionate nature and a striking golden coat. It is commonly kept as a pet and is among the most frequently registered breeds in several Western countries. It is a frequent competitor in dog shows and obedience trials; it is also used as a gundog, and may be trained for use as a guide dog. The breed was created by Sir Dudley Marjoribanks at his Scottish estate Guisachan in the late nineteenth century. He cross-bred Flat-coated Retrievers with Tweed Water Spaniels, with some further infusions of Red Setter, Labrador Retriever and Bloodhound. The breed was recognised by the Kennel Club in 1913, and during the interwar period spread to many parts of the world.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Golden_Retriever_Dukedestiny01_drvd.jpg/640px-Golden_Retriever_Dukedestiny01_drvd.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Australian Shepherd",
+        "info": "The Australian Shepherd is a breed of herding dog from the United States. The name of the breed is technically a misnomer, as it was developed in California in the 19th century, although it has its origins in Asturias, in the northwest of Spain; the breed was unknown in Australia at the time. It is claimed that Australian Shepherds descend from a variety of herding breeds, including collies imported, alongside sheep, from Australia and New Zealand; the breed reportedly took its name from this trade. Originally used solely as a herding dog, the Australian Shepherd has become one of the most popular companion dog breeds in North America.",
+        "img": "https://dogtime.com/wp-content/uploads/sites/12/2011/01/GettyImages-1310156914-e1691160249641.jpg?w=1024"
+    },
+    {
+        "id": 10,
+        "name": "Rottweiler",
+        "info": "The Rottweiler is a breed of domestic dog, regarded as medium-to-large or large. The dogs were known in German as Rottweiler Metzgerhund, meaning Rottweil butchers' dogs, because their main use was to herd livestock and pull carts laden with butchered meat to market. This continued until the mid-19th century when railways replaced droving. Although still used to herd stock in many parts of the world, Rottweilers are now also used as search and rescue dogs, guard dogs, and police dogs.",
+        "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7XqrwVjTpejtqr9BzqBNVVBmFthyxPUm0rfO9_iJnvXUZdrij"
+    }
+]
